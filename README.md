@@ -27,9 +27,14 @@ d-navigate
 a-Drag and drop  
 b-Double click 
 
-# 6-managing javascript Alerts   
+# 6-managing javascript Alerts 
+1-Prompt alerts  
+2-confirm alerts
+
 
 # 7-working with buttons and textboxs
+
+# 8-handling Multiple windows
 
 
 # This project impelmented using Java on eclipse IDE with Selenium webdriver&TestNG&Maven
