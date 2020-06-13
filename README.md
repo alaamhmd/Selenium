@@ -36,6 +36,17 @@ b-Double click
 
 # 8-handling Multiple windows
 
+# 9-synchronizingTests
+1-Implicit Wait      
+2-Explicit Wait           
+3-Fluent Wait
+
+# 10- Working with frames
+ switching between frames using frame:   
+ 1-ID  
+ 2-name   
+ 3-index
+
 
 # This project impelmented using Java on eclipse IDE with Selenium webdriver&TestNG&Maven
 # All this methods applied on real websites including google website
