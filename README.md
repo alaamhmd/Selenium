@@ -50,13 +50,13 @@ b-Double click
  # 11-use selenium webDriver to excute javascript calls like:  
  1-get page title  
  2-get num of links in page  
- 3-scroll to any postion inside webpage etc...  
+ 3-scroll to any postion inside webpage,etc...  
  
  # 12- working with context menu
 
 
 # This project impelmented using Java on eclipse IDE with Selenium webdriver&TestNG&Maven
-# All this methods applied on real websites including google website
+# All this methods applied on real websites including (google,amazon,github,etc..) websites
 # you can run this project on your machine by just downloading it, No need for any changes
 
 
