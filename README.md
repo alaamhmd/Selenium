@@ -45,7 +45,14 @@ b-Double click
  switching between frames using frame:   
  1-ID  
  2-name   
- 3-index
+ 3-index  
+ 
+ # 11-use selenium webDriver to excute javascript calls like:  
+ 1-get page title  
+ 2-get num of links in page  
+ 3-scroll to any postion inside webpage etc...  
+ 
+ # 12- working with context menu
 
 
 # This project impelmented using Java on eclipse IDE with Selenium webdriver&TestNG&Maven
