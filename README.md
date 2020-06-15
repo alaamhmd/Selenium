@@ -53,6 +53,14 @@ b-Double click
  3-scroll to any postion inside webpage,etc...  
  
  # 12- working with context menu
+ 
+ # 13- Take screenshot on failure   
+ save screenshot of failure to folder inside working destination or anywhere you choose  
+ 
+ # 14- check for broken links or images  
+ -check all broken images using HttpClient  
+ -check all broken links using HttpURLConnection
+ 
 
 
 # This project impelmented using Java on eclipse IDE with Selenium webdriver&TestNG&Maven
