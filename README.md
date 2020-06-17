@@ -61,6 +61,16 @@ b-Double click
  -check all broken images using HttpClient  
  -check all broken links using HttpURLConnection
  
+ # 15- Upload files  
+ -upload files using selenium webdriver and robot class()
+  
+ # 16- Downloads files  
+ -download files with firfox and firefoxOptions  
+ -download files with chrome and ChromeOptions   
+ 
+ # 17- automating HTML5 web Apps  
+ -automating HTML5 video player  
+ -automationg HTML5 canvas
 
 
 # This project impelmented using Java on eclipse IDE with Selenium webdriver&TestNG&Maven
