@@ -70,7 +70,7 @@ b-Double click
  
  # 17- automating HTML5 web Apps  
  -automating HTML5 video player  
- -automationg HTML5 canvas
+ -automating HTML5 canvas
 
 
 # This project impelmented using Java on eclipse IDE with Selenium webdriver&TestNG&Maven
